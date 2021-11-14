@@ -1,0 +1,20 @@
+D:\MyStudy level 4\Sections\Abeer Security\Task 2\Monoalphabetic\Monoalphabetic\bin\Debug\Monoalphabetic.exe.config
+D:\MyStudy level 4\Sections\Abeer Security\Task 2\Monoalphabetic\Monoalphabetic\bin\Debug\Monoalphabetic.exe
+D:\MyStudy level 4\Sections\Abeer Security\Task 2\Monoalphabetic\Monoalphabetic\bin\Debug\Monoalphabetic.pdb
+D:\MyStudy level 4\Sections\Abeer Security\Task 2\Monoalphabetic\Monoalphabetic\obj\Debug\Monoalphabetic.csprojAssemblyReference.cache
+D:\MyStudy level 4\Sections\Abeer Security\Task 2\Monoalphabetic\Monoalphabetic\obj\Debug\Monoalphabetic.Form1.resources
+D:\MyStudy level 4\Sections\Abeer Security\Task 2\Monoalphabetic\Monoalphabetic\obj\Debug\Monoalphabetic.Properties.Resources.resources
+D:\MyStudy level 4\Sections\Abeer Security\Task 2\Monoalphabetic\Monoalphabetic\obj\Debug\Monoalphabetic.csproj.GenerateResource.cache
+D:\MyStudy level 4\Sections\Abeer Security\Task 2\Monoalphabetic\Monoalphabetic\obj\Debug\Monoalphabetic.csproj.CoreCompileInputs.cache
+D:\MyStudy level 4\Sections\Abeer Security\Task 2\Monoalphabetic\Monoalphabetic\obj\Debug\Monoalphabetic.exe
+D:\MyStudy level 4\Sections\Abeer Security\Task 2\Monoalphabetic\Monoalphabetic\obj\Debug\Monoalphabetic.pdb
+C:\Users\karim salah\Desktop\Monoalphabetic-encryption-main\Monoalphabetic\Monoalphabetic\bin\Debug\Monoalphabetic.exe.config
+C:\Users\karim salah\Desktop\Monoalphabetic-encryption-main\Monoalphabetic\Monoalphabetic\bin\Debug\Monoalphabetic.exe
+C:\Users\karim salah\Desktop\Monoalphabetic-encryption-main\Monoalphabetic\Monoalphabetic\bin\Debug\Monoalphabetic.pdb
+C:\Users\karim salah\Desktop\Monoalphabetic-encryption-main\Monoalphabetic\Monoalphabetic\obj\Debug\Monoalphabetic.csproj.AssemblyReference.cache
+C:\Users\karim salah\Desktop\Monoalphabetic-encryption-main\Monoalphabetic\Monoalphabetic\obj\Debug\Monoalphabetic.Form1.resources
+C:\Users\karim salah\Desktop\Monoalphabetic-encryption-main\Monoalphabetic\Monoalphabetic\obj\Debug\Monoalphabetic.Properties.Resources.resources
+C:\Users\karim salah\Desktop\Monoalphabetic-encryption-main\Monoalphabetic\Monoalphabetic\obj\Debug\Monoalphabetic.csproj.GenerateResource.cache
+C:\Users\karim salah\Desktop\Monoalphabetic-encryption-main\Monoalphabetic\Monoalphabetic\obj\Debug\Monoalphabetic.csproj.CoreCompileInputs.cache
+C:\Users\karim salah\Desktop\Monoalphabetic-encryption-main\Monoalphabetic\Monoalphabetic\obj\Debug\Monoalphabetic.exe
+C:\Users\karim salah\Desktop\Monoalphabetic-encryption-main\Monoalphabetic\Monoalphabetic\obj\Debug\Monoalphabetic.pdb
